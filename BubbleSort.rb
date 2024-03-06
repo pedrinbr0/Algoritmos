@@ -20,4 +20,4 @@ def bubble_sort(arr)
   arr = [64, 34, 25, 12, 22, 11, 90]
   bubble_sort(arr)
   puts "Sorted array:"
-  print_array(arr)
+  print_array(arr) 
